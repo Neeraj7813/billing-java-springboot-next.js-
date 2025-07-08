@@ -8,7 +8,7 @@ class ShopBackendApplicationTests {
 
 	@Test
 	void contextLoads() {
-		//Test
+		//Test something
 	}
 
 }
